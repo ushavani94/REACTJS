@@ -16,6 +16,6 @@ class User {
     }
 
     printName(){
-        return this.getFirstName()a + this.getLastName();
+        return this.getFirstName() + this.getLastName();
     }
 }
